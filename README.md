@@ -2,8 +2,8 @@
 ### :camera: Screenshots
 
 <div align="center">
-  <img src="3.png" alt="screenshot" />
   <img src="r_native_battlestations.png" alt="screenshot" />
+  <img src="3.png" alt="screenshot" />
 </div>
 </div>
 
