@@ -3,7 +3,6 @@
 
 <div align="center">
   <img src="r_native_battlestations.png" alt="screenshot" />
-  <img src="3.png" alt="screenshot" />
 </div>
 </div>
 
